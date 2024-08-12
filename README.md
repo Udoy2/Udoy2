@@ -15,11 +15,5 @@
 
 <hr>
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udoy2&" alt="udoy2" style="width: 45%; margin-right: 10px; height: 195px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=udoy2&show_icons=true&locale=en" alt="udoy2" style="width: 45%; height: 200px" />
-</div>
-<br>
 
 
