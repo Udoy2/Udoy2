@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,threejs,tailwind,django,laravel,blender,mongodb,vite,firebase,mysql,javascript,python,java,cpp,go,php,cs,selenium,postman,anaconda,vim,docker,arduino,bash,vscode,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,threejs,tailwind,django,laravel,blender,mongodb,vite,firebase,mysql,javascript,python,java,cpp,go,php,cs,selenium,postman,anaconda,vim,docker,jenkins,arduino,bash,vscode,linux&theme=dark" />
   </a>
 </p>
 
