@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmudur Rahman Udoy</h1>
-<h3 align="center">I am an avid programmer who loves to create things and who loves to work with technology.</h3>
+<h1 align="center">Hi ,I'm Mahmudur Rahman Udoy</h1>
+<h3 align="center">I am someone who loves to build stuff. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udoy2&label=Profile%20views&color=0e75b6&style=flat" alt="udoy2" /> </p>
 - 📫 How to reach me **mrahman@mrudoy.me**
 
